@@ -1,0 +1,4 @@
+[tool.ruff]
+line-length = 66  # Max line length for formatting
+target-version = "py313"  # Adjust based on your Python version
+select = ["E", "W", "F"]  # Enable checks for Errors, Warnings, and Formatting
