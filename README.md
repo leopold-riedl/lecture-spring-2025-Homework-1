@@ -7,4 +7,4 @@ Copyright 2025 Leopold Riedl
 
 This project is released under an MIT LICENSE.
 
-This is a repository for Homework-1 assignment for the lecture Open Source Energy System Modeling in Spring 2025.
+This is the Homework-1 assignment for the lecture Open Source Energy System Modeling in Spring 2025.
